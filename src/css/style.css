@@ -1,0 +1,27 @@
+/*indented paragraph or section*/
+.indent {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+/*indented full paragraph*/
+/*because the 'p' is a tag you don't have to add a period in front of the name for the class*/
+p {
+    text-indent: 30px;
+  }
+
+  /*because we made the class up we need to add a period*/
+.list-indent {
+    margin-left: 60px;
+}
+
+/*center the last line motto*/
+.centered-text {
+    text-align: center;
+}
+
+/*create space at the top of motto*/
+.space-top {
+    margin-top: 30px;
+
+}
